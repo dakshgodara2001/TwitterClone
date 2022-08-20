@@ -1,0 +1,475 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8dea784150d77c4f1c74710205f7aee1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ac2b0a092e41dfc142e6a0762f33e479/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fd7b31944f67dc779a1c7cf84e7366e4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/613bb481a0f03ec072dc388d1d448d49/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/68e0da02c358afab5b990783e3febd7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/cff64268a2a21b959ae769c875a0cb92/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/564eb0d87c85df3587bc9274558f1493/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/4c1062052ac27e0ed9d05be4840e2cd9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b1a711d962a49d42d0cd8498f4418c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/15ed067916fe45965acf63213aac6fde/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8cdc574c4ce92d4c670781a829a8567e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c865970e70a1e126fadb95fb44722186/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b7d5094133455ed6403e44d86f42bef7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d5f6dcf47f35e10d7bc58bb5c0c41f6f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b61c58303da44f23fd4e821cebf1c6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a16039c2d64037a85bfd7df5d15895b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ec4211a87d5356fb3f9f589eb85cad97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/64b9cd1f90871d22e94941a63827c5a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c3252e4e0acc34cee046f3ad9150946d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a5ffa7370dc19bc3fd1ce19127d38dba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d6f4477d2cbb51223d4145b0cf0e6575/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8e69d923bf8cbca3c8d109a438a08971/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ea9d905e9c85a83082d0764e664b6b71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/680241b65aa0a4e1267af66c8d7e61c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/30c27b3b86f9f64edacc990299b6399d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fc300e754d772ac5fccbb1fb346ba90e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0f6b6d03cd1e1304fd07979af19dbe23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/e53f8d6ee6e06a30fb0101710956580f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5ca167b50917c392f686c03c19089ac1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5539934bbf18e50bdd6248b9713c33a0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b86f2974d4418a0d26509129f47d39f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/107f8366420b07ddafa85cfa9e244605/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/063f57157769a9a98f5d254df0f5b118/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1e293f3ce1f0164f4bc71024199d7ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f251b888a0e3bbe8e4b7ad4d082e00d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/abf11eef275b8721844d1f2be40007fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/405114e08822c2711365ae907f41a105/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b99f1389debaceb0bdf09c64c066b77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/9c90362dab9b246114f0613e39980a68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/aad7200a8b71650c37e90ddece7b289f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8eb76631a3e7d9b28f0ba99dc8d5e8df/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:4:1-62
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:4:18-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8dea784150d77c4f1c74710205f7aee1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8dea784150d77c4f1c74710205f7aee1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fd7b31944f67dc779a1c7cf84e7366e4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fd7b31944f67dc779a1c7cf84e7366e4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/613bb481a0f03ec072dc388d1d448d49/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/613bb481a0f03ec072dc388d1d448d49/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/cff64268a2a21b959ae769c875a0cb92/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/cff64268a2a21b959ae769c875a0cb92/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/564eb0d87c85df3587bc9274558f1493/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/564eb0d87c85df3587bc9274558f1493/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/4c1062052ac27e0ed9d05be4840e2cd9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/4c1062052ac27e0ed9d05be4840e2cd9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b1a711d962a49d42d0cd8498f4418c8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b1a711d962a49d42d0cd8498f4418c8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/15ed067916fe45965acf63213aac6fde/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/15ed067916fe45965acf63213aac6fde/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8cdc574c4ce92d4c670781a829a8567e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8cdc574c4ce92d4c670781a829a8567e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c865970e70a1e126fadb95fb44722186/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c865970e70a1e126fadb95fb44722186/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b7d5094133455ed6403e44d86f42bef7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b7d5094133455ed6403e44d86f42bef7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d5f6dcf47f35e10d7bc58bb5c0c41f6f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d5f6dcf47f35e10d7bc58bb5c0c41f6f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5539934bbf18e50bdd6248b9713c33a0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5539934bbf18e50bdd6248b9713c33a0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:10:9-45
+	android:icon
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:8:9-40
+	android:allowBackup
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.alrubaye.twitterwebservice.MainActivity
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.alrubaye.twitterwebservice.Login
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:22:13-34
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:21:13-34
+activity#com.alrubaye.twitterwebservice.Register
+ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml:26:19-43
+uses-sdk
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8dea784150d77c4f1c74710205f7aee1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8dea784150d77c4f1c74710205f7aee1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ac2b0a092e41dfc142e6a0762f33e479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ac2b0a092e41dfc142e6a0762f33e479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fd7b31944f67dc779a1c7cf84e7366e4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fd7b31944f67dc779a1c7cf84e7366e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/613bb481a0f03ec072dc388d1d448d49/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/613bb481a0f03ec072dc388d1d448d49/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/68e0da02c358afab5b990783e3febd7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/68e0da02c358afab5b990783e3febd7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/cff64268a2a21b959ae769c875a0cb92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/cff64268a2a21b959ae769c875a0cb92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/564eb0d87c85df3587bc9274558f1493/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/564eb0d87c85df3587bc9274558f1493/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/4c1062052ac27e0ed9d05be4840e2cd9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/4c1062052ac27e0ed9d05be4840e2cd9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b1a711d962a49d42d0cd8498f4418c8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b1a711d962a49d42d0cd8498f4418c8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/15ed067916fe45965acf63213aac6fde/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/15ed067916fe45965acf63213aac6fde/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8cdc574c4ce92d4c670781a829a8567e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8cdc574c4ce92d4c670781a829a8567e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c865970e70a1e126fadb95fb44722186/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c865970e70a1e126fadb95fb44722186/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b7d5094133455ed6403e44d86f42bef7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b7d5094133455ed6403e44d86f42bef7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d5f6dcf47f35e10d7bc58bb5c0c41f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d5f6dcf47f35e10d7bc58bb5c0c41f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b61c58303da44f23fd4e821cebf1c6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b61c58303da44f23fd4e821cebf1c6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a16039c2d64037a85bfd7df5d15895b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a16039c2d64037a85bfd7df5d15895b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ec4211a87d5356fb3f9f589eb85cad97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ec4211a87d5356fb3f9f589eb85cad97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/64b9cd1f90871d22e94941a63827c5a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/64b9cd1f90871d22e94941a63827c5a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c3252e4e0acc34cee046f3ad9150946d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c3252e4e0acc34cee046f3ad9150946d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a5ffa7370dc19bc3fd1ce19127d38dba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/a5ffa7370dc19bc3fd1ce19127d38dba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d6f4477d2cbb51223d4145b0cf0e6575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/d6f4477d2cbb51223d4145b0cf0e6575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8e69d923bf8cbca3c8d109a438a08971/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8e69d923bf8cbca3c8d109a438a08971/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ea9d905e9c85a83082d0764e664b6b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/ea9d905e9c85a83082d0764e664b6b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/680241b65aa0a4e1267af66c8d7e61c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/680241b65aa0a4e1267af66c8d7e61c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/30c27b3b86f9f64edacc990299b6399d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/30c27b3b86f9f64edacc990299b6399d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fc300e754d772ac5fccbb1fb346ba90e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/fc300e754d772ac5fccbb1fb346ba90e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0f6b6d03cd1e1304fd07979af19dbe23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0f6b6d03cd1e1304fd07979af19dbe23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/e53f8d6ee6e06a30fb0101710956580f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/e53f8d6ee6e06a30fb0101710956580f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5ca167b50917c392f686c03c19089ac1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5ca167b50917c392f686c03c19089ac1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/77af1b6a3647f1d89de26c011352f56c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5539934bbf18e50bdd6248b9713c33a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/5539934bbf18e50bdd6248b9713c33a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b86f2974d4418a0d26509129f47d39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/0b86f2974d4418a0d26509129f47d39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/107f8366420b07ddafa85cfa9e244605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/107f8366420b07ddafa85cfa9e244605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/063f57157769a9a98f5d254df0f5b118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/063f57157769a9a98f5d254df0f5b118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1e293f3ce1f0164f4bc71024199d7ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1e293f3ce1f0164f4bc71024199d7ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f251b888a0e3bbe8e4b7ad4d082e00d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f251b888a0e3bbe8e4b7ad4d082e00d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/abf11eef275b8721844d1f2be40007fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/abf11eef275b8721844d1f2be40007fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/405114e08822c2711365ae907f41a105/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/405114e08822c2711365ae907f41a105/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b99f1389debaceb0bdf09c64c066b77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2b99f1389debaceb0bdf09c64c066b77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/9c90362dab9b246114f0613e39980a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/9c90362dab9b246114f0613e39980a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/aad7200a8b71650c37e90ddece7b289f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/aad7200a8b71650c37e90ddece7b289f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8eb76631a3e7d9b28f0ba99dc8d5e8df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/8eb76631a3e7d9b28f0ba99dc8d5e8df/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hussienalrubaye/Desktop/Data/KotlinUdemy/Android/TwitterWebService/TwitterWebService/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/1608aeefd26cca29175f0a8703e9a4af/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:26:22-76
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b075de04ba23eea9914a257fdd6d32c6/AndroidManifest.xml:32:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/c095287ffc3aa50ead24486074061512/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/2d81dde93ec92786836bcc08ebc194f0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/34449bd079fafc8ab41f4a9b8d2c476a/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/3193b13693423df3a94468b89088961d/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/f9c7590294cabe3698f3d50594a2413a/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/6bad593febbd15d61fb5cd7dba7cb60c/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/bb22ee17497381e68b004068edde1799/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hussienalrubaye/.gradle/caches/transforms-2/files-2.1/b944fb0d2de6891b591bf9d445952f7a/AndroidManifest.xml:24:13-58
