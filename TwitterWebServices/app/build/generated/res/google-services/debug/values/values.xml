@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">173695667648-bjgrbpm61d4oqsrqmmrv5ds2b3e0jtfc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://twitterwebservice-b75b6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">173695667648</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0kb_gzya1ywnyRo73DB6UDLNGZUx7j00</string>
+    <string name="google_app_id" translatable="false">1:173695667648:android:743ba6586e2f9d5c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0kb_gzya1ywnyRo73DB6UDLNGZUx7j00</string>
+    <string name="google_storage_bucket" translatable="false">twitterwebservice-b75b6.appspot.com</string>
+    <string name="project_id" translatable="false">twitterwebservice-b75b6</string>
+</resources>
